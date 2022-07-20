@@ -38,14 +38,14 @@ Happy to interact with new people and share my knowledge also keen to learn more
 
  # &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/dheeraj24inferno/dheeraj24inferno">
+<a href="https://github.com/dc1st17cs053/dc1st17cs053">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheeraj24inferno&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/dheeraj24inferno/dheeraj24inferno">
+<a href="https://github.com/dc1st17cs053/dc1st17cs053">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dheeraj24inferno&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Dheeraj's GitHub Stats" />
 </a>
 
-<a href="https://github.com/dheeraj24inferno/automatic-certificate-generator">
+<a href="https://github.com/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dheeraj24inferno&repo=automatic-certificate-generator&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
